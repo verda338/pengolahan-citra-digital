@@ -24,5 +24,5 @@ https://drive.google.com/drive/folders/19puVtrTm4oPGx4W3ium1Sgzf13Oivd9F?usp=dri
 
 | No | Keterangan | Gambar |
 |----|-------------|--------|
-| 1  | Grafik Akurasi | ![Akurasi](https://drive.google.com/uc?export=view&id=1AbCdEfGhIjKlMnO) |
-| 2  | Contoh Daun | ![Daun](images/daun_herbal.jpg) |
+| 1  | Daun Nangka | ![images](result/download1.png) |
+| 2  | Daun Sirih| ![images](result/dowload2.png) |
