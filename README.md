@@ -25,4 +25,4 @@ https://drive.google.com/drive/folders/19puVtrTm4oPGx4W3ium1Sgzf13Oivd9F?usp=dri
 | No | Keterangan | Gambar |
 |----|-------------|--------|
 | 1  | Daun Nangka | ![images](result/download1.png) |
-| 2  | Daun Sirih| ![images](result/dowload2.png) |
+| 2  | Daun Sirih| ![images](result/download2.png) |
